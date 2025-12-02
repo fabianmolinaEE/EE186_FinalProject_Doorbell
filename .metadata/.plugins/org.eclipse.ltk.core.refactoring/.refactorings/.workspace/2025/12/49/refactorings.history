@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;OLED_screen_driver&apos;" deleteContents="true" description="Delete resource &apos;OLED_screen_driver&apos;" element1="/OLED_screen_driver" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1764714863266"/>
+</session>
