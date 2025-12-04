@@ -33,4 +33,7 @@ The part we are working with is: 2pcs 0.96" HD IPS TFT LCD Display Module 80x160
 * PG8 -> LPUART_RX (For debug)
 * PB14 -> Red LED (For debug)
 
+# R307S fingerprint sensor
+* Used USART2
+* PB10
 
