@@ -37,3 +37,8 @@ The part we are working with is: 2pcs 0.96" HD IPS TFT LCD Display Module 80x160
 * Used USART2
 * PB10
 
+# PIR Sensor BS612
+* PF12 -> REL
+* GND -> SENSE, VSS, ONTIME
+* 3.3V -> OEN, VDD
+
