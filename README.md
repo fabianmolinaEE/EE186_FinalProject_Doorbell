@@ -42,3 +42,12 @@ The part we are working with is: 2pcs 0.96" HD IPS TFT LCD Display Module 80x160
 * GND -> SENSE, VSS, ONTIME
 * 3.3V -> OEN, VDD
 
+# Wifi Module
+* PB5 -> SPI1 MOSI
+* PB4 -> SPI1 MISO
+* PB3 -> SPI1 SCK
+* PA0 -> GPIO0
+* PF13 -> READY
+* PF15 -> RESET
+* PD14 -> CS_
+
